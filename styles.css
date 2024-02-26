@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .color-picker-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .color-picker {
+    margin-right: 20px;
+  }
+  
+  .color-values {
+    width: 200px;
+  }
+  
+  .color-preview {
+    text-align: center;
+  }
+  
+  #colorBox {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    margin: 0 auto;
+  }
+  
